@@ -1,14 +1,14 @@
 ![MasterHead](C:\Users\avira\Downloads\coding_environment.jpg)
 
 <h1 align="center">Hi 👋, I'm Aviral Rastogi</h1>
-<h3 align="center">front end developer</h3>
+<h3 align="center">Software developer</h3>
 <img align="right" alt="coding" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aviral45678&label=Profile%20views&color=0e75b6&style=flat" alt="aviral45678" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aviral45678" alt="aviral45678" /></a> </p>
 
-- 🌱 I’m currently learning **node js and react**
+- 🌱 I’m currently learning AI and Machine Learning
 
 - 📫 How to reach me **aviralrastogi2003@gmail.com**
 
