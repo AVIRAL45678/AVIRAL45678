@@ -1,4 +1,4 @@
-![MasterHead](C:\Users\avira\Downloads\coding_environment.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Aviral Rastogi</h1>
 <h3 align="center">Software developer</h3>
