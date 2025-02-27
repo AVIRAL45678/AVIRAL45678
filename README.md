@@ -1,4 +1,5 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fcoding&psig=AOvVaw2Fr1VnGgm8IDLiZogz8te8&ust=1740732913463000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJC2p9S944sDFQAAAAAdAAAAABAL)
+![MasterHead](https://your-image-url.jpg)
+
 <h1 align="center">Hi 👋, I'm Aviral Rastogi</h1>
 <h3 align="center">front end developer</h3>
 <img align="right" alt="coding" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
