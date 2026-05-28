@@ -1,17 +1,20 @@
-💫 Hi 👋, I'm Aviral Rastogi
-🚀 Backend Developer | Java • Spring Boot • Microservices • AWS
+# 💫 Hi 👋, I'm Aviral Rastogi
+
+### 🚀 Backend Developer | Java • Spring Boot • Microservices • AWS
 
 Passionate about building scalable backend systems, REST APIs, and cloud-based applications.
 
-📩 Email: aviralrastogi2003@gmail.com
-💼 Open to collaborations, backend projects, and software engineering opportunities.
+📩 **Email:** [aviralrastogi2003@gmail.com](mailto:aviralrastogi2003@gmail.com)
+💼 **Open to:** Collaborations, Backend Projects & Software Engineering Opportunities
 
-🔭 Currently Working On: Scalable Backend & Microservices Projects
-🌱 Currently Learning: System Design, Kafka, Docker & AWS
-👯 Looking to Collaborate On: Backend Development & Cloud Projects
-💬 Ask Me About: Java, Spring Boot, REST APIs, Microservices & DSA
-📫 Reach Me At: aviralrastogi2003@gmail.com
-⚡ Fun Fact: I turn coffee ☕ into scalable backend systems 🚀
+---
+
+* 🔭 **Currently Working On:** Scalable Backend & Microservices Projects
+* 🌱 **Currently Learning:** System Design, Kafka, Docker & AWS
+* 👯 **Looking to Collaborate On:** Backend Development & Cloud Projects
+* 💬 **Ask Me About:** Java, Spring Boot, REST APIs, Microservices & DSA
+* 📫 **Reach Me At:** [aviralrastogi2003@gmail.com](mailto:aviralrastogi2003@gmail.com)
+* ⚡ **Fun Fact:** I turn coffee ☕ into scalable backend systems 🚀
 
 
 
