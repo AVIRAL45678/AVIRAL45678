@@ -1,11 +1,12 @@
 
+```md
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=3EFF8B&center=true&vCenter=true&width=700&lines=Hey+there+👋,+I'm+Aviral+Rastogi!;Software+Developer+|+AI+&+ML+Enthusiast;Passionate+about+Problem+Solving+and+Development;Welcome+to+My+GitHub+Profile!🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=3EFF8B&center=true&vCenter=true&width=900&lines=Hey+there+👋,+I'm+Aviral+Rastogi!;Backend+Developer+|+Java+|+Spring+Boot+|+Microservices;REST+APIs+|+SQL+|+System+Design+Enthusiast;Passionate+about+Scalable+Backend+Systems+🚀" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Software Developer | AI & ML Enthusiast | C++ | Python | React</h3>
-
-
+<h3 align="center">
+Backend Developer | Java | Spring Boot | REST APIs | Microservices | SQL
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aviral45678&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
@@ -14,74 +15,125 @@
 
 ---
 
-## 🔥 **About Me**
-- 🌱 I’m currently learning **AI, Machine Learning, and Big Data (Hadoop)**
+# 🚀 About Me
+
+- 💻 Backend Developer focused on building scalable and efficient applications
+- 🌱 Currently learning **Spring Boot, Microservices, and System Design**
+- ⚡ Strong interest in **Java Backend Development & Distributed Systems**
+- 🧠 Solved **650+ DSA problems** across LeetCode, Codeforces, and GeeksforGeeks
+- 🔧 Passionate about **REST APIs, Database Optimization, and Backend Architecture**
 - 📫 Reach me at: **aviralrastogi2003@gmail.com**
-- 🏆 Competitive Programmer | AI & ML Developer
-- 💡 Passionate about **Full-Stack Development & Data Science**
-- 💻 **LeetCode** | **CodeChef** | **Hackerrank** | **HackerEarth**
 
 ---
 
-## 🔗 **Connect with me**
-<h3 align="left">Connect with me:</h3>
+# 🌐 Connect with Me
+
 <p align="left">
-<a href="https://linkedin.com/in/aviral rastogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aviral rastogi" height="30" width="40" /></a>
-<a href="https://instagram.com/aviral_rastogi08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aviral_rastogi08" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aviral08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aviral08" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aviral rastogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aviral rastogi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/iconic08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iconic08" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aviral-rastogi-5b0321268/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+
+<a href="https://github.com/aviral45678" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
+</a>
+
+<a href="https://leetcode.com/Aviral_0807" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+</a>
+
+<a href="https://www.codechef.com/users/aviral08" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
+</a>
 </p>
 
 ---
 
-## 🛠 **Languages and Tools**
+# 🛠 Tech Stack
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</p>
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+
+</p>
 
 ---
 
-## 📊 **GitHub Stats**
+# 📌 Featured Projects
+
+## 🔐 Authentico — Secure Employee Web Portal
+- Built secure employee management platform using **Java, Spring Boot, PostgreSQL, and React**
+- Implemented **role-based authentication** and RESTful backend APIs
+- Designed scalable backend workflows and secure database handling
+
+---
+
+## 🔗 Distributed URL Shortener
+- Developed scalable URL shortening service inspired by TinyURL
+- Implemented REST APIs and optimized MySQL query performance
+- Improved backend throughput using indexing and modular backend architecture
+
+---
+
+## 📄 Resume Genie — ATS Resume Analyzer
+- Built ATS optimization system using NLP and SQL-based storage
+- Developed resume parsing and keyword matching workflows
+- Implemented interactive dashboard and analytics tracking system
+
+---
+
+# 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aviral45678&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aviral45678&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aviral45678&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🏆 **GitHub Trophies**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aviral45678&theme=tokyonight&no-frame=false&margin-w=5" alt="GitHub Trophies" />
-</p>
+# 🏆 Achievements
+
+- 🧠 Solved **650+ DSA problems** across coding platforms
+- ⭐ Achieved **1600+ LeetCode rating**
+- 🥉 Secured **3rd place** in BitBox 2.0 Hackathon
+- 📚 Active IEEE Student Member and backend development enthusiast
 
 ---
 
-## 🎯 **Fun Fact 
+# ⚡ Fun Fact
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250" />
 </p>
+
 <ul>
-  <li>⚡ **I love solving DSA problems and working on AI/ML projects**</li>
-  <li>🎯 **Passionate about building intelligent systems**</li>
-  <li>🚀 **Open to collaboration on interesting projects!**</li>
+  <li>🚀 Passionate about scalable backend systems and distributed architecture</li>
+  <li>⚡ Love solving DSA and system design problems</li>
+  <li>💡 Constantly learning backend technologies and performance optimization</li>
 </ul>
 
 ---
 
-### ✨ **Thank you for visiting my profile!** 😊
+<h3 align="center">
+✨ Thanks for visiting my profile! 🚀
+</h3>
+```
 
