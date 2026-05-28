@@ -1,15 +1,14 @@
-
 ```md
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=3EFF8B&center=true&vCenter=true&width=900&lines=Hey+there+👋,+I'm+Aviral+Rastogi!;Backend+Developer+|+Java+|+Spring+Boot+|+Microservices;REST+APIs+|+SQL+|+System+Design+Enthusiast;Passionate+about+Scalable+Backend+Systems+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=500&color=3EFF8B&center=true&vCenter=true&width=850&lines=Hey+there+👋,+I'm+Aviral+Rastogi!;Backend+Developer+|+Java+|+Spring+Boot;REST+APIs+|+Microservices+|+SQL;Passionate+about+Scalable+Backend+Systems+🚀" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
-Backend Developer | Java | Spring Boot | REST APIs | Microservices | SQL
+Backend Developer | Java | Spring Boot | REST APIs | Microservices
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aviral45678&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=aviral45678&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/aviral45678?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
@@ -17,11 +16,11 @@ Backend Developer | Java | Spring Boot | REST APIs | Microservices | SQL
 
 # 🚀 About Me
 
-- 💻 Backend Developer focused on building scalable and efficient applications
+- 💻 Backend Developer passionate about scalable applications and clean architecture
 - 🌱 Currently learning **Spring Boot, Microservices, and System Design**
 - ⚡ Strong interest in **Java Backend Development & Distributed Systems**
 - 🧠 Solved **650+ DSA problems** across LeetCode, Codeforces, and GeeksforGeeks
-- 🔧 Passionate about **REST APIs, Database Optimization, and Backend Architecture**
+- 🔧 Love building **REST APIs, backend services, and database-driven applications**
 - 📫 Reach me at: **aviralrastogi2003@gmail.com**
 
 ---
@@ -29,21 +28,23 @@ Backend Developer | Java | Spring Boot | REST APIs | Microservices | SQL
 # 🌐 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/aviral-rastogi-5b0321268/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+
+<a href="https://www.linkedin.com/in/aviral-rastogi-5b0321268/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 
-<a href="https://github.com/aviral45678" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
+<a href="https://github.com/aviral45678" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
 </a>
 
-<a href="https://leetcode.com/Aviral_0807" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+<a href="https://leetcode.com/Aviral_0807/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
 </a>
 
-<a href="https://www.codechef.com/users/aviral08" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
+<a href="https://www.codechef.com/users/aviral08" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
 </a>
+
 </p>
 
 ---
@@ -78,21 +79,21 @@ Backend Developer | Java | Spring Boot | REST APIs | Microservices | SQL
 
 ## 🔐 Authentico — Secure Employee Web Portal
 - Built secure employee management platform using **Java, Spring Boot, PostgreSQL, and React**
-- Implemented **role-based authentication** and RESTful backend APIs
+- Implemented role-based authentication and RESTful backend APIs
 - Designed scalable backend workflows and secure database handling
 
 ---
 
 ## 🔗 Distributed URL Shortener
 - Developed scalable URL shortening service inspired by TinyURL
-- Implemented REST APIs and optimized MySQL query performance
-- Improved backend throughput using indexing and modular backend architecture
+- Built REST APIs and optimized MySQL query performance
+- Improved backend throughput using indexing and modular architecture
 
 ---
 
 ## 📄 Resume Genie — ATS Resume Analyzer
 - Built ATS optimization system using NLP and SQL-based storage
-- Developed resume parsing and keyword matching workflows
+- Developed resume parsing and keyword-matching workflows
 - Implemented interactive dashboard and analytics tracking system
 
 ---
@@ -111,9 +112,9 @@ Backend Developer | Java | Spring Boot | REST APIs | Microservices | SQL
 
 # 🏆 Achievements
 
-- 🧠 Solved **650+ DSA problems** across coding platforms
-- ⭐ Achieved **1600+ LeetCode rating**
-- 🥉 Secured **3rd place** in BitBox 2.0 Hackathon
+- 🧠 Solved 650+ DSA problems across coding platforms
+- ⭐ Achieved 1600+ LeetCode rating
+- 🥉 Secured 3rd place in BitBox 2.0 Hackathon
 - 📚 Active IEEE Student Member and backend development enthusiast
 
 ---
